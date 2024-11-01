@@ -1,0 +1,36 @@
+.country{
+
+    width: 18em;
+    border-radius: 7px;
+    overflow: hidden;
+    display: inline-block;
+    height: 23em;
+}
+
+.country img{
+
+    width: 100%;
+}
+
+.country >div{
+
+    padding:0 1em;
+}
+
+.country h2{
+
+    margin: revert;
+    font-weight: 800;
+
+}
+
+.country p{
+
+    font-weight: 600;
+}
+
+
+.country p span{
+
+    color: var(--Dark-Gray-Light-Mode-Input);
+}
